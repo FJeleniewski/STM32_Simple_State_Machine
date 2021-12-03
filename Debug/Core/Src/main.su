@@ -1,0 +1,7 @@
+main.c:67:5:main	16	static
+main.c:116:6:SystemClock_Config	88	static
+main.c:157:6:ToggleLedClick	8	static
+main.c:162:6:ToggleLedLong	8	static
+main.c:167:6:ToggleLedRep	8	static
+main.c:172:8:BlinkLedRel	8	static
+main.c:195:6:Error_Handler	4	static,ignoring_inline_asm

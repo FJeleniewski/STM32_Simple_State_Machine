@@ -1,0 +1,14 @@
+button.c:13:6:ButtonInit	24	static
+button.c:26:6:ButtonSetTimerDebounce	16	static
+button.c:31:6:ButtonSetTimerLongPress	16	static
+button.c:36:6:ButtonSetTimerRepeat	16	static
+button.c:42:6:ButtonRegisterPressCallback	16	static
+button.c:47:6:ButtonRegisterLongPressCallback	16	static
+button.c:52:6:ButtonRegisterRepeatCallback	16	static
+button.c:57:6:ButtonRegisterReleaseCallback	16	static
+button.c:63:6:ButtonIdleRoutine	16	static
+button.c:73:6:ButtonDebounceRoutine	16	static
+button.c:95:6:ButtonPressRoutine	16	static
+button.c:117:6:ButtonRepeatRoutine	16	static
+button.c:138:6:ButtonReleaseRoutine	16	static
+button.c:155:6:ButtonTask	16	static
