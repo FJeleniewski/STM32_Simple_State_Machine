@@ -13,4 +13,6 @@ Release - LD9 (PC7)
 Press - if button is pressed for less than 2 second then LD12 is turn on/off.\
 Long press - if button is pressed for 2 seconds then LD11 is turn on/off.\
 Repeat - if button is pressed for more than 2 seconds then LD10 starts blinking.\
-Release - every time when button is released, LD9 blink 2 times.
+Release - every time when button is released, LD9 blink 2 times.\
+
+Board: STM32 Nucleo-F411RE
